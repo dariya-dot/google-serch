@@ -121,3 +121,17 @@ cursor: pointer;
     text-decoration: none;
     color: black;
 }
+
+
+
+.header{
+    width: 100%;
+    max-width: 600px;
+}
+.footer{
+     width: 100%;
+    max-width: 600px
+}
+.body{
+     width: 100%;
+    max-width: 600px}
